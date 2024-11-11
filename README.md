@@ -46,7 +46,8 @@ CardsView Project Display
 
 ![Product List Screenshot](ProjectImageDisplay.png)
 
-Potential Fixes:
+Encountered Issues?
 
-Make sure to use cd command to path to the right files. Check namings!
-Make sure you install required things before launching, like express for backend.
+1.Make sure to use cd command to path to the right files. Check namings.
+
+2.Make sure you install required things before launching, like express for backend.
