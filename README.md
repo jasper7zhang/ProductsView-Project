@@ -23,13 +23,11 @@ npm start
 (Optional) Verify the Backend Server:
 Once the backend is running, you can test it by visiting http://localhost:5000/api/products in a browser or API
 
-Backend server will run on http://localhost:5000
-
 # 3. Frontend Setup
 
-Similar to backend,
+After setting up backend server,
 
-Steps:
+Steps (Similar to backend):
 cd ProjectName
 cd frontend
 npm install
