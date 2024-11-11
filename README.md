@@ -45,6 +45,7 @@ Frontend server will run on http://localhost:3000
 CardsView Project Display
 
 ![Product List Screenshot](ProjectImageDisplayLocalServer.png)
+![Product List Screenshot](ProjectImage2MoreProducts.png)
 
 Encountered Issues?
 
