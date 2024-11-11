@@ -7,5 +7,9 @@ THIS IS TO TEST YOUR SKILLS TO MEET OUR APP DEVELOPMENT REQUIREMENTS
 5. On your repo, please add step-by-step instructions on how to launch (for both the Backend and Frontend) to the `README.md`
 6. Share your repo link with us via email.
 
+Developed front end backend.
+Starting Direciton:
+help me wr
+
 HAPPY CODING! </br>
 A Round Entertainment
