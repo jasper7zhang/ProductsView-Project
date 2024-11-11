@@ -31,6 +31,6 @@ npm start
 
 # Frontend server will run on http://localhost:3000
 
-# CardsView Image
+# CardsView Project Display
 
 ![Product List Screenshot](images/screenshot.png)
