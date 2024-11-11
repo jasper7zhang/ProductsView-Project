@@ -1,15 +1,36 @@
-# SWE INTERVIEW TEST 
-THIS IS TO TEST YOUR SKILLS TO MEET OUR APP DEVELOPMENT REQUIREMENTS
+Overview
+This application displays a list of products in card format, allowing users to view details and delete cards as needed.
 
-1. Clone this repo to your local machine.
-2. Read `Assignment Requirements` carefully and follow it.
-4. Please commit your entire code to `your own Github repository` 
-5. On your repo, please add step-by-step instructions on how to launch (for both the Backend and Frontend) to the `README.md`
-6. Share your repo link with us via email.
+Tech Stack
+Frontend: React
+Backend: Node.js, Express.js
 
-Developed front end backend.
-Starting Direciton:
-help me wr
+Getting Started
+To set up and launch both the backend and frontend, follow these three steps:
 
-HAPPY CODING! </br>
-A Round Entertainment
+# 1. Clone the repository
+
+git clone <your_repo_url>
+cd <repo_folder_name>
+
+# 2. Backend Setup
+
+cd backend
+npm install
+npm start
+
+# Backend server will run on http://localhost:5000
+
+cd ..
+
+# 3. Frontend Setup
+
+cd frontend
+npm install
+npm start
+
+# Frontend server will run on http://localhost:3000
+
+# CardsView Image
+
+![Product List Screenshot](images/screenshot.png)
