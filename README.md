@@ -13,7 +13,7 @@ git clone the project
 
 # 2. Backend Setup
 
-Backend code needs express and cors as well, so navigate to the backend directory in your terminal and run:
+Backend code needs to install express and cors as well, so navigate to the backend directory in your terminal and run:
 
 cd ProductView
 
@@ -21,7 +21,7 @@ cd backend
 
 npm install express cors
 
-npm start
+node index.js
 
 (Optional) Verify the Backend Server:
 Once the backend is running, you can test it by visiting http://localhost:5000/api/products in a browser or API
