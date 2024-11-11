@@ -74,9 +74,9 @@ app.delete("/api/products/:id", (req, res) => {
 
   if (productIndex !== -1) {
     products.splice(productIndex, 1);
-    res.status(200).json({ message: "Product deleted successfully" });
+    res.status(200).json({ message: "Product deleted successfully." });
   } else {
-    res.status(404).json({ message: "Product not found" });
+    res.status(404).json({ message: "Product not found." });
   }
 });
 
