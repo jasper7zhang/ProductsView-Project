@@ -13,11 +13,14 @@ git clone the project
 
 # 2. Backend Setup
 
-Backend code needs expressand cors as well, so navigate to the backend directory in your terminal and run:
+Backend code needs express and cors as well, so navigate to the backend directory in your terminal and run:
 
 cd ProjectName
+
 cd backend
+
 npm install express cors
+
 npm start
 
 (Optional) Verify the Backend Server:
@@ -28,9 +31,13 @@ Once the backend is running, you can test it by visiting http://localhost:5000/a
 After setting up backend server,
 
 Steps (Similar to backend):
+
 cd ProjectName
+
 cd frontend
+
 npm install
+
 npm start
 
 Frontend server will run on http://localhost:3000
