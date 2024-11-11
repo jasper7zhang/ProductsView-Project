@@ -15,7 +15,7 @@ git clone the project
 
 Backend code needs express and cors as well, so navigate to the backend directory in your terminal and run:
 
-cd ProjectName
+cd FolderName
 
 cd backend
 
@@ -32,7 +32,7 @@ After setting up backend server,
 
 Steps (Similar to backend):
 
-cd ProjectName
+cd FolderName
 
 cd frontend
 
