@@ -4,7 +4,7 @@ Tech Stack
 Frontend: React
 Backend: Node.js, Express.js
 
-Getting Started
+Getting Started with developer mode
 To set up and launch both the backend and frontend, follow these three steps:
 
 # 1. Clone the repository
